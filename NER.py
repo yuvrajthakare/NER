@@ -31,7 +31,7 @@ def home():
         show_table=False,
         title="Persons, dates and locations",
     )
-    return st.text(f"Analyzed using spaCy model {spacy_model}")
+    st.text(f"Analyzed using spaCy model {spacy_model}")
 
 #initializing application.
 if __name__ == "__main__":
