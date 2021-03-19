@@ -1,1 +1,1 @@
-web: web: streamlit run --server.enableCORS false --server.port $PORT NER.py
+web: sh setup.sh && streamlit run app.py
