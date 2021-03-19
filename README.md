@@ -17,4 +17,4 @@ output:
 
 9. Deplyed this app on heroku:
 reference : https://gilberttanner.com/blog/deploying-your-streamlit-dashboard-with-heroku
-open app : https://named-entity-recognition1.herokuapp.com
+10. Open app : https://named-entity-recognition1.herokuapp.com
