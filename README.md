@@ -14,3 +14,7 @@ link to the app : https://named-entity-recognition1.herokuapp.com/
 ![alt text](https://github.com/yuvrajthakare/NER/blob/main/image2.png "input")
 output:
 ![alt text](https://github.com/yuvrajthakare/NER/blob/main/image1.png "output")
+
+9. Deplyed this app on heroku:
+reference : https://gilberttanner.com/blog/deploying-your-streamlit-dashboard-with-heroku
+open app : https://named-entity-recognition1.herokuapp.com
