@@ -1,1 +1,1 @@
-web: gunicorn NER:app
+web: web: streamlit run --server.enableCORS false --server.port $PORT NER.py
