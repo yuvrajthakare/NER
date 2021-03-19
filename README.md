@@ -10,4 +10,7 @@ link to the app : https://named-entity-recognition1.herokuapp.com/
 5. Perform Named Entity Recognition on scrapped data and extract entities like **city, person, organisation, Date, Geographical Entity, Product** etc.
 6. Display annotated text in Streamlit App.
 7. Run thi streamlit app using `streamlit run NER.py`.
-8. 
+8. Inline-style: 
+![alt text](https://github.com/yuvrajthakare/NER/blob/main/image1.png "input")
+Inline-style: 
+![alt text](https://github.com/yuvrajthakare/NER/blob/main/image2.png "output")
